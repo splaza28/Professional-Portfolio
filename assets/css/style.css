@@ -25,10 +25,9 @@ header {
 h1 mark { 
      color:rgb(44, 55, 87);
     background-color:rgb(107, 153, 161);
-    font-size: 55px; 
+    font-size: 45px; 
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
-    
    
 }
 
@@ -63,14 +62,14 @@ img {
     height: auto;
     object-fit: contain;
     float:left;
-    padding-left: 50px;
+    padding-left: 20px;
     
 }
 
 #contain {
     position: absolute;
     top: 40%;
-    left: 50%;
+    left: 30%;
     transform: translate(-50%, -50%);
     width: 800px;
     padding: 30px;
@@ -288,6 +287,9 @@ footer a{
             margin-left: 50px;
             list-style-type: none; 
         }
+    
+
+    }
     
 
     }
